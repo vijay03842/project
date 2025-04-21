@@ -1,0 +1,62 @@
+body{
+  background-color: #fdebb2 ;
+ 
+}
+.todo{
+  text-align: center;
+  margin-top: 50px;
+  padding: 150px;
+  padding-top: 10px;
+}
+h4{
+  font-size: 4rem;
+  color: white;
+}
+
+ol{
+  padding: 0;
+}
+li{
+  font-weight: bold;
+  padding: 10px;
+  background-color: hsl(0,0%,97%);
+  margin-bottom: 10px;
+  display:flex;
+  align-items: center;
+  border-radius: 5px;
+}
+.text{
+  flex: 1;
+}
+.input{
+  border:2px solid black;
+  padding-bottom: 5px;
+  padding-right: 100px;
+
+}
+.add{
+  padding: 5px;
+margin-left: 80%;
+margin-top: 2px;
+
+}
+.addtodo{
+  margin: 100px;
+  padding: 40px;
+  background-color: hsl(0,0%,97%);
+  width: 50%;
+  border-radius: 30px;
+}
+label{
+  text-align:center
+}
+h3{
+  text-align: center;
+ 
+}
+.button{
+  width: 50px;
+  padding: 2px;
+  
+
+}
