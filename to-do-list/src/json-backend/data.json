@@ -1,0 +1,10 @@
+{
+  "Todolist": [
+    {
+      "id": "1",
+      "task": " study HTML ",
+      "details": " html is basic structure emwe",
+      "deadline": "2025-5-24"
+    }
+  ]
+}
